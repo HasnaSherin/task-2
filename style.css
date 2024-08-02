@@ -1,0 +1,13 @@
+.one{
+    width: 300px;
+}
+
+button{
+    text-align: right;
+}
+.nav{
+background-color: rgba(4, 78, 236, 0.593);
+}
+.btn btn-warning{
+    background-color: rgb(1, 1, 150);
+}
